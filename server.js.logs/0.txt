@@ -1,3 +1,1 @@
-path.existsSync is now called `fs.existsSync`.
-info: socket.io started
 Express server listening on port NaN in development mode
